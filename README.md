@@ -1,4 +1,7 @@
 ## Advanced Lane Finding
+
+Please see my Writeup [here](WRITEUP.md).
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ![Lanes Image](./examples/example_output.jpg)
 
